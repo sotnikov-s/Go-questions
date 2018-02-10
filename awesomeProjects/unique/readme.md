@@ -15,7 +15,7 @@ cat: /home/sotnikov/go: Это каталог
 
 sotnikov@sotnikov-PC:~$ cat $GOPATH
 cat: /home/sotnikov/go/bin: Это каталог
--------------------------------------
+
 GOROOT и GOPATH в GoLand:
 GOROOT: /home/sotnikov/go
 GOPATH: /home/sotnikov/go/bin
