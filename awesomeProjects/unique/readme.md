@@ -11,12 +11,18 @@
 
 
 **GOROOT и GOPATH через терминал:**
+
 $GOROOT /home/sotnikov/go
+
 $GOPATH /home/sotnikov/go/bin
 
 
+
 **GOROOT и GOPATH в GoLand:**
+
 GOROOT: /home/sotnikov/go
+
 GOPATH: /home/sotnikov/go/bin
+
 
 То есть GOROOT и GOPATH для системы и конкретно для GoLand не отличаются. В чём тогда дело? Почему GoLand требует по-разному вводить директорию для файлов из одной и той же папки?
