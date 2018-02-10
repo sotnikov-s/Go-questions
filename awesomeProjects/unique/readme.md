@@ -11,10 +11,8 @@
 
 
 **GOROOT и GOPATH через терминал:**
-sotnikov@sotnikov-PC:~$ cat $GOROOT
-cat: /home/sotnikov/go: Это каталог
-sotnikov@sotnikov-PC:~$ cat $GOPATH
-cat: /home/sotnikov/go/bin: Это каталог
+$GOROOT /home/sotnikov/go
+$GOPATH /home/sotnikov/go/bin
 
 
 **GOROOT и GOPATH в GoLand:**
